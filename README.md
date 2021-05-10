@@ -1,4 +1,4 @@
--👋こんにちは、@ riki-ogitです。
+-👋こんにちは、@ riki-ogitaです。
 
 -👀私はPython,Ruby,HTML,CSSに興味あります。
 
