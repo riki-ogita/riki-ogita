@@ -1,7 +1,5 @@
 -👋こんにちは、@ riki-ogitaです。
 
--👀私はPython,Ruby,HTML,CSSに興味あります。
-
 
 <!---
 riki-ogita/riki-ogita is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
